@@ -1,0 +1,3 @@
+# Use with Debian Wheezy repository. Set as default for MX-14.
+deb http://antix.daveserver.info/stable/ stable main 
+
